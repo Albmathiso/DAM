@@ -3,6 +3,6 @@ public class Gitboy
 {
 	public static void main(String[] args)
 	{
-		System.out.println("HOLA CARACOLU!");
+		System.out.println("HOLA COOARACOLU!");
 	}
 }
